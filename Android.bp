@@ -4,6 +4,12 @@
 
 soong_namespace {
 	imports: [
+		"device/xiaomi/sdm660-common",
+		"hardware/qcom-caf/msm8996",
+		"hardware/qcom/wlan/legacy",
+		"hardware/xiaomi",
+		"vendor/qcom/opensource/dataservices",
+		"vendor/qcom/opensource/display",
 	],
 }
 
