@@ -151,23 +151,7 @@ PRODUCT_PACKAGES += \
     btaudio_offload_if \
     sound_trigger.primary.sdm660 \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
-    libAlacSwDec \
-    libApeSwDec \
-    libFlacSwDec \
     libI420colorconvert \
-    libOmxAacDec \
-    libOmxAlacDec \
-    libOmxAlacDecSw \
-    libOmxAmrDec \
-    libOmxAmrwbplusDec \
-    libOmxApeDec \
-    libOmxApeDecSw \
-    libOmxDsdDec \
-    libOmxEvrcDec \
-    libOmxG711Dec \
-    libOmxQcelp13Dec \
-    libOmxVideoDSMode \
-    libOmxWmaDec \
     libacdb-fts \
     libacdbloader \
     libacdbrtac \
