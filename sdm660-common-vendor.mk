@@ -123,6 +123,7 @@ PRODUCT_PACKAGES += \
     libmdmdetect \
     libmdsprpc \
     libminkdescriptor \
+    libqcbor \
     libqcci_legacy \
     libqdi \
     libqdp \
