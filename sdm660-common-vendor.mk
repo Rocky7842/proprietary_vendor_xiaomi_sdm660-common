@@ -152,7 +152,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.dsp@1.0 \
     vendor.qti.hardware.mwqemadapter@1.0 \
     btaudio_offload_if \
-    sound_trigger.primary.sdm660 \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
     libI420colorconvert \
     libacdb-fts \
